@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movieSearchApp/static/css/main.1c733c64.chunk.css",
+    "main.js": "/movieSearchApp/static/js/main.b7fed1eb.chunk.js",
+    "main.js.map": "/movieSearchApp/static/js/main.b7fed1eb.chunk.js.map",
+    "runtime-main.js": "/movieSearchApp/static/js/runtime-main.f9403353.js",
+    "runtime-main.js.map": "/movieSearchApp/static/js/runtime-main.f9403353.js.map",
+    "static/js/2.de50ff86.chunk.js": "/movieSearchApp/static/js/2.de50ff86.chunk.js",
+    "static/js/2.de50ff86.chunk.js.map": "/movieSearchApp/static/js/2.de50ff86.chunk.js.map",
+    "static/js/3.489828c8.chunk.js": "/movieSearchApp/static/js/3.489828c8.chunk.js",
+    "static/js/3.489828c8.chunk.js.map": "/movieSearchApp/static/js/3.489828c8.chunk.js.map",
+    "index.html": "/movieSearchApp/index.html",
+    "static/css/main.1c733c64.chunk.css.map": "/movieSearchApp/static/css/main.1c733c64.chunk.css.map",
+    "static/js/2.de50ff86.chunk.js.LICENSE.txt": "/movieSearchApp/static/js/2.de50ff86.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/movieSearchApp/static/media/film.a95f1319.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9403353.js",
+    "static/js/2.de50ff86.chunk.js",
+    "static/css/main.1c733c64.chunk.css",
+    "static/js/main.b7fed1eb.chunk.js"
+  ]
+}
